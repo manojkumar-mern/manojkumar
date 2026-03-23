@@ -1,16 +1,16 @@
-<!-- 🔥 BANNER -->
+<!--  BANNER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/manojkumar-mern/manojkumar-mern/main/github%20banner.png" width="100%" />
 </p>
 
-<!-- 🔥 TYPING INTRO -->
+<!--  TYPING INTRO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Manoj+Kumar;MERN+Stack+Developer;Building+Scalable+Web+Applications;Open+to+Internships+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Manoj+Kumar;MERN+Stack+Developer;Building+Scalable+Web+Applications;Open+to+Internships+🌐" />
 </h1>
 
 ---
 
-## 🚀 About Me
+## 👤 About Me
 - 💻 MERN Stack Developer passionate about building modern web apps  
 - 🌱 Currently learning **Advanced Backend & System Design**  
 - 🎯 Focused on **real-world problem solving**  
@@ -59,10 +59,10 @@
 
 ---
 
-## 🔥 Featured Projects
-💬 **Chat App**(https://chat-app-manoj.vercel.app/) – Real-time messaging using Socket.io  
-✅ **Task Manager**(https://task-manager-auth-mern.vercel.app/) – Full CRUD MERN application with authentication  
-🚀 **Postly App**(https://postly-react.vercel.app/) – Social media post creator with modern UI  
+## 🌌 Featured Projects
+💬 **Chat App** (https://chat-app-manoj.vercel.app/) – Real-time messaging using Socket.io  
+✅ **Task Manager** (https://task-manager-auth-mern.vercel.app/) – Full CRUD MERN application with authentication  
+🚀 **Postly App** (https://postly-react.vercel.app/) – Social media post creator with modern UI  
 
 ---
 
@@ -75,5 +75,5 @@
 
 ---
 
-## 💡 Developer Mindset
+## 🧑‍💻 Developer Mindset
 > “First, solve the problem. Then, write the code.” 🚀
