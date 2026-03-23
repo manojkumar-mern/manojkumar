@@ -39,7 +39,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manojkumar-mern/manojkumar-mern/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/manojkumar-mern/manojkumar/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -60,9 +60,9 @@
 ---
 
 ## 🔥 Featured Projects
-✨ **Postly App** – Create and manage social media posts  
 💬 **Chat App** – Real-time messaging using Socket.io  
-✅ **Task Manager** – Full CRUD MERN application  
+✅ **Task Manager** – Full CRUD MERN application with authentication  
+🚀 **Postly App** – Social media post creator with modern UI  
 
 ---
 
