@@ -60,9 +60,9 @@
 ---
 
 ## 🔥 Featured Projects
-💬 **Chat App** – Real-time messaging using Socket.io  
-✅ **Task Manager** – Full CRUD MERN application with authentication  
-🚀 **Postly App** – Social media post creator with modern UI  
+💬 **Chat App**(https://chat-app-manoj.vercel.app/) – Real-time messaging using Socket.io  
+✅ **Task Manager**(https://task-manager-auth-mern.vercel.app/) – Full CRUD MERN application with authentication  
+🚀 **Postly App**(https://postly-react.vercel.app/) – Social media post creator with modern UI  
 
 ---
 
