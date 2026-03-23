@@ -1,6 +1,6 @@
 <!-- 🔥 BANNER -->
 <p align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000186071faa180f7d0b792102c&ts=492852&p=fs&cid=1&sig=36dff05992e1b5ba5fdb84c333ea3ab9f43ee7c174b7bb67426760ed2b12dbcf&v=0" width="100%" />
+  <img src="https://raw.githubusercontent.com/manojkumar-mern/manojkumar/main/github%20banner.png" width="100%" />
 </p>
 
 <!-- 🔥 TYPING INTRO -->
