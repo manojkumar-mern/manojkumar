@@ -11,10 +11,10 @@
 ---
 
 ## 👤 About Me
-- 💻 MERN Stack Developer passionate about building modern web apps  
-- 🌱 Currently learning **Advanced Backend & System Design**  
-- 🎯 Focused on **real-world problem solving**  
-- ⚡ Love turning ideas into products  
+- MERN Stack Developer passionate about building modern web apps  
+- Currently learning **Advanced Backend & System Design**  
+- Focused on **real-world problem solving**  
+- Love turning ideas into products  
 
 ---
 
@@ -60,9 +60,9 @@
 ---
 
 ## 🌌 Featured Projects
-💬 **Chat App** (https://chat-app-manoj.vercel.app/) – Real-time messaging using Socket.io  
-✅ **Task Manager** (https://task-manager-auth-mern.vercel.app/) – Full CRUD MERN application with authentication  
-🚀 **Postly App** (https://postly-react.vercel.app/) – Social media post creator with modern UI  
+➤ **Chat App** (https://chat-app-manoj.vercel.app/) – Real-time messaging using Socket.io  
+➤ **Task Manager** (https://task-manager-auth-mern.vercel.app/) – Full CRUD MERN application with authentication  
+➤ **Postly App** (https://postly-react.vercel.app/) – Social media post creator with modern UI  
 
 ---
 
@@ -76,4 +76,4 @@
 ---
 
 ## 🧑‍💻 Developer Mindset
-> “First, solve the problem. Then, write the code.” 🚀
+> “First, solve the problem. Then, write the code.” 
