@@ -5,7 +5,7 @@
 
 <!--  TYPING INTRO -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&width=700&lines=Hi!..+👋,+I'm+Manoj+Kumar;MERN+Stack+Developer;Building+Scalable+Web+Applications;Open+to+Internships & opportunities+🌐" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Manoj+Kumar;MERN+Stack+Developer;Building+Scalable+Web+Applications;Open+to+Internships & opportunities+🌐" />
 </h1>
 
 ---
