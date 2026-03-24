@@ -60,57 +60,65 @@
 ---
 
 ## 🌌 Featured Projects
-### 💬 Chat App
+
+---
+
+### 💬 Chat App (Real-Time)
+
 <p align="center">
-  <img src="https://your-screenshot-link.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/manojkumar-mern/chat-app/main/assets/chat.png" width="700"/>
 </p>
 
 🔗 **Live Demo:** https://chat-app-manoj.vercel.app/  
 📂 **GitHub Repo:** https://github.com/manojkumar-mern/chat-app  
 
 ✨ **Features:**
-- Real-time messaging using Socket.IO
-- User authentication (JWT)
-- Online/offline status
-- Responsive UI
+- Real-time messaging using Socket.IO  
+- Clean chat UI (WhatsApp-like)  
+- Message timestamps & delivery status  
+- Responsive design  
 
-🛠️ **Tech Stack:** React, Node.js, Express, MongoDB, Socket.IO
-
----
-
-### 📋 Task Manager App
-
-<p align="center">
-  <img src="https://your-task-image.png" width="600"/>
-</p>
-
-🔗 **Live Demo:** https://task-manager-auth-mern.vercel.app/  
-📂 **GitHub Repo:** https://github.com/manojkumar-mern/task-manager-auth
-
-✨ **Features:**
-- Full CRUD operations
-- Secure authentication
-- Protected routes
-
-🛠️ **Tech Stack:** MERN Stack
+🛠️ **Tech Stack:** React, Node.js, Express, MongoDB, Socket.IO  
 
 ---
 
-### 📝 Postly App
+### 📝 Postly App (Social Media)
 
 <p align="center">
-  <img src="https://your-postly-image.png" width="600"/>
+  <img src="https://raw.githubusercontent.com/manojkumar-mern/postly/main/assets/postly.png" width="700"/>
 </p>
 
 🔗 **Live Demo:** https://postly-react.vercel.app/  
 📂 **GitHub Repo:** https://github.com/manojkumar-mern/postly  
 
 ✨ **Features:**
-- Create & manage posts
-- Modern UI design
-- Responsive layout
+- Create & view posts  
+- Like & comment system  
+- Clean modern UI  
+- Responsive layout  
 
-🛠️ **Tech Stack:** React, Node.js, MongoDB
+🛠️ **Tech Stack:** React, Node.js, MongoDB  
+
+---
+
+### 📋 Task Manager (Full Stack)
+
+<p align="center">
+  <img src="task-login.png" width="250"/>
+  <img src="task-signup.png" width="250"/>
+  <img src="task-dashboard.png" width="250"/>
+</p>
+
+🔗 **Live Demo:** https://task-manager-auth-mern.vercel.app/  
+📂 **GitHub Repo:** https://github.com/manojkumar-mern/task-manager-auth 
+
+✨ **Features:**
+- Authentication (Login / Signup)  
+- Protected dashboard  
+- Task CRUD operations  
+- Priority & due date system  
+
+🛠️ **Tech Stack:** MERN Stack  
 
 ---
 
