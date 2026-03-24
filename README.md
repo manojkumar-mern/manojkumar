@@ -1,6 +1,6 @@
 <!--  BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manojkumar-mern/manojkumar-mern/main/github%20banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/manojkumar-mern/manojkumar-mern/main/banner%20(2).png" width="100%" />
 </p>
 
 <!--  TYPING INTRO -->
