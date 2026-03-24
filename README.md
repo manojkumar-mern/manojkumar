@@ -104,9 +104,9 @@
 ### 📋 Task Manager (Full Stack)
 
 <p align="center">
-  <img src="task-login.png" width="250"/>
-  <img src="task-signup.png" width="250"/>
-  <img src="task-dashboard.png" width="250"/>
+  <img src="task-login.png" width="350"/>
+  <img src="task-signup.png" width="350"/>
+  <img src="task-dashboard.png" width="350"/>
 </p>
 
 🔗 **Live Demo:** https://task-manager-auth-mern.vercel.app/  
