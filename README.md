@@ -60,9 +60,57 @@
 ---
 
 ## 🌌 Featured Projects
-➤ **Chat App** (https://chat-app-manoj.vercel.app/) – Real-time messaging using Socket.io  
-➤ **Task Manager** (https://task-manager-auth-mern.vercel.app/) – Full CRUD MERN application with authentication  
-➤ **Postly App** (https://postly-react.vercel.app/) – Social media post creator with modern UI  
+### 💬 Chat App
+<p align="center">
+  <img src="https://your-screenshot-link.png" width="600"/>
+</p>
+
+🔗 **Live Demo:** https://chat-app-manoj.vercel.app/  
+📂 **GitHub Repo:** https://github.com/manojkumar-mern/chat-app  
+
+✨ **Features:**
+- Real-time messaging using Socket.IO
+- User authentication (JWT)
+- Online/offline status
+- Responsive UI
+
+🛠️ **Tech Stack:** React, Node.js, Express, MongoDB, Socket.IO
+
+---
+
+### 📋 Task Manager App
+
+<p align="center">
+  <img src="https://your-task-image.png" width="600"/>
+</p>
+
+🔗 **Live Demo:** https://task-manager-auth-mern.vercel.app/  
+📂 **GitHub Repo:** https://github.com/manojkumar-mern/task-manager-auth
+
+✨ **Features:**
+- Full CRUD operations
+- Secure authentication
+- Protected routes
+
+🛠️ **Tech Stack:** MERN Stack
+
+---
+
+### 📝 Postly App
+
+<p align="center">
+  <img src="https://your-postly-image.png" width="600"/>
+</p>
+
+🔗 **Live Demo:** https://postly-react.vercel.app/  
+📂 **GitHub Repo:** https://github.com/manojkumar-mern/postly  
+
+✨ **Features:**
+- Create & manage posts
+- Modern UI design
+- Responsive layout
+
+🛠️ **Tech Stack:** React, Node.js, MongoDB
 
 ---
 
