@@ -66,7 +66,7 @@
 ### 💬 Chat App (Real-Time)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manojkumar-mern/chat-app/main/assets/chat.png" width="700"/>
+  <img src="chat.png" width="700"/>
 </p>
 
 🔗 **Live Demo:** https://chat-app-manoj.vercel.app/  
@@ -85,7 +85,7 @@
 ### 📝 Postly App (Social Media)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manojkumar-mern/postly/main/assets/postly.png" width="700"/>
+  <img src="postly.png" width="700"/>
 </p>
 
 🔗 **Live Demo:** https://postly-react.vercel.app/  
