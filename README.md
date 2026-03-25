@@ -60,9 +60,6 @@
 ---
 
 ## 🌌 Featured Projects
-
----
-
 ### 💬 Chat App (Real-Time)
 
 <p align="center">
