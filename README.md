@@ -46,8 +46,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=manojkumar-mern&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
+    <img src="https://github-readme-stats.vercel.app/api?username=manojkumar-mern&show_icons=true&theme=tokyonight&hide_border=true&v=2" />
 </p>
 
 ---
