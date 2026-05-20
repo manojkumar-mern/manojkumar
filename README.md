@@ -23,6 +23,7 @@
   <a href="https://manoj-portfolio-mern.vercel.app/">
     <img src="https://img.shields.io/badge/🌍 Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1plVftJAo7GNM93ieBl0JINE7ee0ex0va/view?usp=drivesdk">
     <img src="https://img.shields.io/badge/📄 Resume-000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
